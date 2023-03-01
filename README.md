@@ -1,2 +1,2 @@
 # Multiple-Inputs
-https://multiple-inputs.netlify.app/
+https://multiple-inputs.netlify.app
